@@ -18,3 +18,7 @@ Thumbs.db
 
 # Local
 .claude/
+
+# Optuna study databases + scratch results
+runs/
+results/
